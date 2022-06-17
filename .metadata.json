@@ -1,0 +1,14 @@
+[
+  {
+    "package": "abbreviate",
+    "oncran": true
+  },
+  {
+    "package": "plot.matrix",
+    "oncran": true
+  },
+  {
+    "package": "rscc",
+    "oncran": true
+  }
+]

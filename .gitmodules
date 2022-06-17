@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "abbreviate"]
+	path = abbreviate
+	url = https://github.com/sigbertklinke/abbreviate
+	shallow = true
+	registered = true
+[submodule "plot.matrix"]
+	path = plot.matrix
+	url = https://github.com/sigbertklinke/plot.matrix
+	shallow = true
+	registered = true
+[submodule "rscc"]
+	path = rscc
+	url = https://github.com/sigbertklinke/rscc
+	shallow = true
+	registered = true
