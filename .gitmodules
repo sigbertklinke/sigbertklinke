@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/sigbertklinke/universe
 	shallow = true
 	branch = HEAD
 [submodule "abbreviate"]
@@ -8,13 +8,38 @@
 	url = https://github.com/sigbertklinke/abbreviate
 	shallow = true
 	registered = true
+[submodule "demoShiny"]
+	path = demoShiny
+	url = https://github.com/sigbertklinke/demoShiny
+	shallow = true
+	registered = true
+[submodule "HKRbook"]
+	path = HKRbook
+	url = https://github.com/sigbertklinke/HKRbook
+	shallow = true
+	registered = true
+[submodule "listArray"]
+	path = listArray
+	url = https://github.com/sigbertklinke/listArray
+	shallow = true
+	registered = true
 [submodule "plot.matrix"]
 	path = plot.matrix
 	url = https://github.com/sigbertklinke/plot.matrix
 	shallow = true
 	registered = true
+[submodule "rmdwc"]
+	path = rmdwc
+	url = https://github.com/sigbertklinke/rmdwc
+	shallow = true
+	registered = true
 [submodule "rscc"]
 	path = rscc
 	url = https://github.com/sigbertklinke/rscc
+	shallow = true
+	registered = true
+[submodule "smvgraph"]
+	path = smvgraph
+	url = https://github.com/sigbertklinke/smvgraph
 	shallow = true
 	registered = true
