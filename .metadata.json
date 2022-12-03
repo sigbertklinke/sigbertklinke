@@ -5,15 +5,15 @@
   },
   {
     "package": "demoShiny",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "HKRbook",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "listArray",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "plot.matrix",
@@ -21,7 +21,7 @@
   },
   {
     "package": "rmdwc",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "rscc",
@@ -29,6 +29,6 @@
   },
   {
     "package": "smvgraph",
-    "oncran": false
+    "oncran": true
   }
 ]
